@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NewGeoQuiz</string>
+    <string name="true_button">TRUE</string>
+    <string name="flase_button">FLASE</string>
+    <string name="correct_toast">Correct !</string>
+    <string name="incorrect_toast">InCorrect !</string>
+    <string name="next_button"> NEXT > </string>
+    <string name="prev_button">  > PREV </string>
+    <string name="next_description">Icon Descripe The Next Question </string>
+    <string name="prev_description">Icon Descripe The Prev Question </string>
+
+    <string name="qustion_text">Sanaa Is Captal of Yemen</string>
+    <string name="question_sanaa">sanaa is the capital of Yemen</string>
+    <string name="question_sea">Red sea  is larger than
+the black.</string>
+    <string name="question_taiz">The populations in Taiz is larger than population in Sanaa
+</string>
+    <string name="question_oceans">There is Oceans in Yemmen</string>
+
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+</resources>
